@@ -1,0 +1,14 @@
+#SimpleAnnouncements Configuration File
+
+#Timer For Sending Announcements (in seconds)
+timer: 60
+
+#Announcements To Be Sent
+#Available Tags:
+#{online} (players online)
+#{name} (name of player)
+#{br} (go one line down)
+#{ping} (players ping)
+announcements:
+  - "{br}Hello {name}{br}"
+  - "Welcome To This Cool Server"
