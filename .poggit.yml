@@ -5,6 +5,6 @@ branches:
 - main
 projects:
   SimpleAnnouncements:
-    icon: "icon.png
+    icon: "icon.png"
     path: ""
 ...
